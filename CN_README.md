@@ -1,19 +1,19 @@
 # Huobi Python SDK
 
-This is Huobi Python SDK, This is a lightweight python library, you can import to your python project and use this SDK to query all market data, trading and manage your account.
+这是Huobi Python SDK，这是一个轻量级的python库，您可以导入到python项目中，并使用此SDK查询所有市场数据，交易和管理你的帐户。
 
-The SDK supports both synchronous RESTful API invoking, and subscribe the market data from the Websocket connection.
+该SDK同时支持RESTfulAPI调用，和通过Websocket实时获取市场数据。
 
 ## Huobi Python SDK Releases
 
-Go to [Releases](https://github.com/HuobiRDCenter/huobi_Python/releases) page to view and download each release.
+可以到[Releases](https://github.com/HuobiRDCenter/huobi_Python/releases) 页面查看和下载每一个正式发行版本.
 
 
 ## Table of Contents
 
-- [Beginning](#Beginning)
-  - [Installation](#Installation)
-  - [Quick Start](#Quick-Start)
+- [开始](#开始)
+  - [安装](#安装)
+  - [快速开始](#快速开始)
   - [Request vs. Subscription](#Request-vs.-Subscription)
   - [Clients](#Clients)
   - [Create client](#create-client)
